@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Game Hub</title>
+
+<style>
+body{
+background:#111;
+color:white;
+font-family:Arial;
+text-align:center;
+}
+
+h1{
+color:#00ffcc;
+}
+
+.game{
+background:#222;
+padding:20px;
+margin:20px;
+border-radius:10px;
+display:inline-block;
+}
+
+a{
+color:#00ffcc;
+font-size:20px;
+text-decoration:none;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1>🎮 My Game Hub</h1>
+<p>Play games online!</p>
+
+<div class="game">
+<a href="drivemad.html">Drive Mad</a>
+</div>
+
+<div class="game">
+<a href="slope.html">Slope</a>
+</div>
+
+</body>
+</html>
